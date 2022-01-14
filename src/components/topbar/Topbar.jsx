@@ -8,7 +8,7 @@ function Topbar({ menuOpen, setMenuOpen }) {
 			<div className="wrapper">
 				<div className="left">
 					<a href="#intro" className="logo">
-						genius.
+						klm.
 					</a>
 					<div className="itemContainer">
 						<Person className="icon" />
